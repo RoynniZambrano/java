@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="971d3203-59cb-4f21-912b-40fa7fdaaf13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bDcnkHD08LuDa1GG30vhrEqbMo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-stream" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="971d3203-59cb-4f21-912b-40fa7fdaaf13" name="Default Changelist" comment="" />
+      <created>1588170273777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588170273777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="303" key="#Project_Structure" timestamp="1588170580854">
+      <screen x="1920" y="125" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="303" key="#Project_Structure/0.0.1920.1040/1920.125.1920.1040@1920.125.1920.1040" timestamp="1588170580854" />
+    <state x="2659" y="324" key="FileChooserDialogImpl" timestamp="1588170700626">
+      <screen x="1920" y="125" width="1920" height="1040" />
+    </state>
+    <state x="2659" y="324" key="FileChooserDialogImpl/0.0.1920.1040/1920.125.1920.1040@1920.125.1920.1040" timestamp="1588170700626" />
+    <state x="2262" y="265" key="new project wizard" timestamp="1588170704112">
+      <screen x="1920" y="125" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="265" key="new project wizard/0.0.1920.1040/1920.125.1920.1040@1920.125.1920.1040" timestamp="1588170704112" />
+  </component>
+</project>
